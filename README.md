@@ -1,7 +1,6 @@
 <h1 align="center">hashport</h1>
 <p align="center">
-    A Python library that implements hashport.
-    <br />
+    Python implementation of hashport, a text-to-port hashing function within the dynamic range (49152-65535).
     <br />
 </p>
 <p align="center">
