@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/labteral/hashport/issues"><img alt="PyPi" src="https://img.shields.io/github/issues/labteral/hashport.svg?style=flat-square"></a>
-    <a href="https://pypi.python.org/pypi/chatgpt/"><img alt="PyPi" src="https://img.shields.io/pypi/v/chatgpt.svg?style=flat-square"></a>
+    <a href="https://pypi.python.org/pypi/hashport/"><img alt="PyPi" src="https://img.shields.io/pypi/v/hashport.svg?style=flat-square"></a>
     <a href="https://github.com/labteral/hashport/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/labteral/hashport.svg?style=flat-square"></a>
 </p>
 
