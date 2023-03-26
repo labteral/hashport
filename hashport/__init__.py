@@ -3,4 +3,4 @@
 
 from .hashport import hashport
 
-__version__ = '1.2303.0'
+__version__ = '1.2303.1'
