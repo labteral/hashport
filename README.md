@@ -24,8 +24,14 @@ pip install -U hashport
 ```
 
 ## Usage
+#### Programmatically
 ```python
 from hashport import hashport
 
 port = hashport('project-name')
+```
+
+#### CLI
+```bash
+hashport project-name
 ```
