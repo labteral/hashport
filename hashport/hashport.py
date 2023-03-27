@@ -14,6 +14,6 @@ def hashport(text: str) -> int:
     # Scale the integer to the desired range (49152 to 65535)
     min_value = 49152
     max_value = 65535
-    scaled_int = min_value + (hash_int % (max_value - min_value))
+    scaled_int = min_value + (hash_int % (max_value - min_value + 1))
 
     return scaled_int
